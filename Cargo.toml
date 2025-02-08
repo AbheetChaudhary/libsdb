@@ -1,0 +1,8 @@
+[package]
+name = "libsdb"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+errno = "0.3.10"
+libc = "0.2.169"
